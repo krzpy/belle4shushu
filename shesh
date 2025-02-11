@@ -12,7 +12,7 @@
             align-items: center;
             height: 100vh;
             background-color: #ffebee;
-            font-family: Arial, sans-serif;
+            font-family: Big Blue Bold, sans-serif;
             text-align: center;
         }
         h1 {
