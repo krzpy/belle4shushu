@@ -43,7 +43,7 @@
 <body>
     <h1>Would you be my Valentine? 💖</h1>
     <div class="buttons">
-        <button class="yes" onclick="alert('Yay! I love you! 💕')">Yes</button>
+        <button class="yes" onclick="alert('Yeppie! I love you so much! 💕')">Yes</button>
         <button class="no" onmouseover="moveButton()">No</button>
     </div>
 
